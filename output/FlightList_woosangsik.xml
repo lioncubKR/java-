@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+    <flightInfo>
+        <item>
+            <company>ANA</company>
+            <flights>
+                <flightName>ANA03</flightName>
+                <flightName>ANA13</flightName>
+                <flightName>ANA25</flightName>
+            </flights>
+        </item>
+        <item>
+            <company>JAL</company>
+            <flights>
+                <flightName>JAL01</flightName>
+                <flightName>JAL05</flightName>
+                <flightName>JAL23</flightName>
+            </flights>
+        </item>
+        <item>
+            <company>KAL</company>
+            <flights>
+                <flightName>KAL02</flightName>
+                <flightName>KAL05</flightName>
+                <flightName>KAL12</flightName>
+            </flights>
+        </item>
+    </flightInfo>
+</Root>
